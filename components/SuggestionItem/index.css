@@ -1,0 +1,24 @@
+.indSearchItemList {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'Roboto';
+  height: fit-content;
+  margin-bottom: -10px;
+}
+.suggestionCSS {
+  font-size: 14px;
+  cursor: pointer;
+}
+.arrowCSS {
+  width: 20px;
+  height: 18px;
+}
+.arrow-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
